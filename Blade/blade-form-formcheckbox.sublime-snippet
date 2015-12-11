@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[{!! Form::checkbox(${1:name}, ${2:value}, ${3:checked}, ${4:options}) !!}]]></content>
+    <tabTrigger>formcheckbox</tabTrigger>
+    <scope>text.html.laravel-blade, text.html</scope>
+</snippet>

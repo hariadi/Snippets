@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+\$expected = ${1};
+\$result = ${2};
+\$this->assertEquals(\$expected, \$result);
+]]></content>
+    <tabTrigger>assert-equals</tabTrigger>
+    <scope>source.php</scope>
+    <description>PHPUnit assertEquals function</description>
+</snippet>
